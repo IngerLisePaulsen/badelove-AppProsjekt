@@ -1,16 +1,3 @@
-# badelove
+Her er link til UX-skissen av badeløve appen: 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://xd.adobe.com/view/bcb4a7c0-5cba-46f3-afe2-e714756e753f-e9e7/?fbclid=IwAR0bJxu53IKWYAcGMNVbkDmIxvfsoV7U6qEycZUsn1byl__Lj8GK72uXedQ&fullscreen
